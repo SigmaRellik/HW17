@@ -141,7 +141,8 @@ C. Run the command that displays the target's computer system information:
 
    > Answer: `systeminfo`
 
-> NOTE: Screenshots are inside - [Report.docx](Resources/Report.docx)
+
+*NOTE: Screenshots are inside - [Report.docx](Resources/Report.docx)
 
 ---
 
