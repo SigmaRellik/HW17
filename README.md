@@ -48,7 +48,7 @@ For this week's homework, please use the following VM setup:
 
 Once you complete this assignment, submit your findings in the following document: 
 
-- [Report.docx](Resources/Week17-Pen-Test-Report:Report-Findings.md at 687275257e11f6151ce70058c44a0b58560ccab2 · ejcasper:Wee.webarchive)
+- [Report.docx](Resources/Report.docx)
  
 ### Instructions
 
